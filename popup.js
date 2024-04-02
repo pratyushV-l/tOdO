@@ -3,13 +3,13 @@ import { getDatabase, ref, onValue, push, remove } from "https://www.gstatic.com
 
 // Initialize Firebase (replace with your own configuration)
 const firebaseConfig = {
-    apiKey: "AIzaSyDC_cIVi_BfJmYEkEiWQsA6GAea6nJAcBg",
-    authDomain: "todo-list-b3003.firebaseapp.com",
-    projectId: "todo-list-b3003",
-    storageBucket: "todo-list-b3003.appspot.com",
-    messagingSenderId: "349349804975",
-    appId: "1:349349804975:web:bcee1b2d4e604bedbb0d5a",
-    databaseURL: "https://todo-list-b3003-default-rtdb.asia-southeast1.firebasedatabase.app",
+    apiKey: "secret",
+    authDomain: "secret",
+    projectId: "secret",
+    storageBucket: "secret",
+    messagingSenderId: "secret",
+    appId: "secret",
+    databaseURL: "secret",
 };
 const firebaseApp = initializeApp(firebaseConfig);
 
